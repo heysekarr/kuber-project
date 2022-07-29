@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: heysekarr/kuber8:latest
+          image: heysekarr/kuber81:latest
           imagePullPolicy: Always
