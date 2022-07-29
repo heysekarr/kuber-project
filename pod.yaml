@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: dockerfamilygreens/kuber8:latest
+          image: heysekarr/kuber8:latest
           imagePullPolicy: Always
